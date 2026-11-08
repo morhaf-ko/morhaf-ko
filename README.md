@@ -18,11 +18,11 @@ At Bettermile I write backend services for Better Route in Kotlin with Spring Bo
 
 ## Writing
 
-[What Hyperliquid funding actually pays](https://morhaf.dev/blog/what-hyperliquid-funding-actually-pays/), and more at [morhaf.dev](https://morhaf.dev).
+[What Hyperliquid funding actually pays](https://morhaf.dev/blog/what-hyperliquid-funding-actually-pays/)
 
 ## Background
 
-Studied in Damascus and Pécs, then worked on cloud operations at SAP in Hungary before moving to Berlin.
+Before Berlin I studied in Damascus and Pécs and worked on cloud operations at SAP in Hungary.
 
 ## Contact
 
