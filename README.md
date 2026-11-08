@@ -9,7 +9,6 @@ At Bettermile I write backend services for Better Route in Kotlin with Spring Bo
 ## Open source
 
 - [zerobill](https://github.com/morhaf-ko/zerobill): a Go CLI that keeps private-repository GitHub Actions on free runners, using your own machine when it is up and free hosted minutes when it is not.
-- [ci-scope](https://github.com/morhaf-ko/ci-scope): a composite GitHub Action that decides from the changed paths whether a commit needs runtime validation.
 
 ## Contributions
 
