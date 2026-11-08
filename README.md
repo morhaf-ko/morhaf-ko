@@ -1,16 +1,29 @@
-## Hi there 👋
+# Morhaf Kourbaj
 
-<!--
-**morhaf-ko/morhaf-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer in Berlin.
 
-Here are some ideas to get you started:
+## Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At Bettermile I write backend services for Better Route in Kotlin with Spring Boot WebFlux and PostgreSQL. I design its AWS infrastructure with Pulumi in Kotlin, set architecture standards, and build the templates, shared libraries and GitHub Actions pipelines that other teams deploy through. I also maintain data pipelines with dbt, Snowflake and Dagster.
+
+## Open source
+
+- [zerobill](https://github.com/morhaf-ko/zerobill): a Go CLI that keeps private-repository GitHub Actions on free runners, using your own machine when it is up and free hosted minutes when it is not.
+- [ci-scope](https://github.com/morhaf-ko/ci-scope): a composite GitHub Action that decides from the changed paths whether a commit needs runtime validation.
+
+## Contributions
+
+- [pulumi/pulumi-java#2282](https://github.com/pulumi/pulumi-java/pull/2282): parse gRPC messages with a raised protobuf recursion limit (merged).
+- [pulumi/pulumi-aws-native#3170](https://github.com/pulumi/pulumi-aws-native/pull/3170): keep nested read-only values when an update replaces their parent (open).
+
+## Writing
+
+[What Hyperliquid funding actually pays](https://morhaf.dev/blog/what-hyperliquid-funding-actually-pays/)
+
+## Background
+
+Before Berlin I studied in Damascus and Pécs and worked on cloud operations at SAP in Hungary.
+
+## Contact
+
+[morhaf.dev/contact](https://morhaf.dev/contact/) or [LinkedIn](https://www.linkedin.com/in/mkourbaj/).
