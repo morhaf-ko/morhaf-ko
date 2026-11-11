@@ -4,10 +4,6 @@ Senior software and platform engineer in Berlin. I design AWS platforms and inte
 
 My work combines backend engineering with solution architecture, data platforms and AI developer tooling. I am interested in opportunities in solution architecture and technical leadership.
 
-## Now
-
-At Bettermile since 2022, I lead backend and platform projects from proof of concept to production and set shared architecture standards. I build AWS infrastructure with Pulumi in Kotlin, Spring Boot WebFlux services and Dagster pipelines on Snowflake.
-
 ## Open source
 
 - [SpecTater](https://github.com/morhaf-ko/spectater): a browser review tool for OpenSpec proposals, designs and tasks. Selected-text feedback reaches coding agents as structured JSON; revisions and replies stay in the local review workflow.
