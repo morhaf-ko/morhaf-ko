@@ -2,7 +2,7 @@
 
 Senior software and platform engineer in Berlin. I design AWS platforms and integrations, and lead technical delivery across engineering teams.
 
-My work combines backend engineering with solution architecture, data platforms and AI developer tooling. I am interested in opportunities in solution architecture and technical leadership.
+My work combines backend engineering with solution architecture, data platforms and AI developer tooling. I also take on freelance automation, AI integration and web projects alongside my full-time role: [work with me](https://morhaf.dev/work/).
 
 ## Open source
 
